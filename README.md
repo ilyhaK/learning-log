@@ -6,4 +6,4 @@ Hello everyone, my name is Illia Kabysh i'm second year student at Kyiv Mohyla A
 ### 29.10.2026:
 I solve one problem on NeetCode: Encode and Decode Strings. Firstly i start solving it by myself, but then ai in neet code halped me. Understand String Builder.
 ### 30.10.2026:
-I solve one problem on NeetCode: longestConsecutive.
+I solve one problem on NeetCode: longestConsecutive. Read about Collections, Lambdas, Streams, Optional.
